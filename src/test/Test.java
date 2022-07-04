@@ -77,6 +77,7 @@ public class Test {
         cl1.removeAll(cl2);
         System.out.println(cl1);
         System.out.println(cl3);
+        System.out.println("mm");
 
 
 
