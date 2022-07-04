@@ -7,6 +7,5 @@ public class T {
         System.out.println("hello git2");
         System.out.println("master test");
         System.out.println("dev test");
-        System.out.println("dev-AA test");
     }
 }
